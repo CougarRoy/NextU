@@ -1,2 +1,0 @@
-# NextU
-Tarea de NextU
